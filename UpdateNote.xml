@@ -1,0 +1,14 @@
+<USDBTrans>
+  <update>
+    <version>2.0.0.0</version>
+    <url>https://samah.com/USDBTrans/20221129_v2.0.0.0/USDBTRANS.exe</url>
+    <localPath>./USDBTRANS.exe</localPath>
+    <description> 업데이트 일시 : 2023/02/24 1. 2.0.0.0 버전 2. 프로그램 기능 추가 3. 디스크립션 추가 4. 기타 버그 수정 </description>
+  </update>
+  <add>
+    <lastModified>2023-02-24</lastModified>
+    <url>https://samah.com/USDBTrans/20221129_v2.0.0.0/ungis.kss</url>
+    <localPath>./db/ungis.kss</localPath>
+    <description> 업데이트 일시 : 2023/02/24 1. DB 업데이트 2. DB 테이블 추가 3. 지자체 필드 수정 4. 유관기관 필드 크기 수정 5. 지자체 테이블 수정 </description>
+  </add>
+</USDBTrans>
